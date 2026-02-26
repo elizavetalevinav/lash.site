@@ -1,0 +1,26 @@
+body{
+    background-color: bisque;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.header {
+    text-align: center;
+}
+.avatar {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+.header__title{
+font-size: 28px;
+
+}
+.header__subtitle{
+color: rgb(38, 31, 31);
+}
+.main {
+    border: 1px solid black;
+    text-align: center;
+}
+.skills ol{
+    list-style: circle;
+}
